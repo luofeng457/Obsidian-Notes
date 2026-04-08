@@ -1,0 +1,1 @@
+Obsidian notes for fun!
