@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "e062439b420b1ee8",
+            "id": "3eaeafe553ffa4fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,49 +36,21 @@
             }
           },
           {
-            "id": "bb64fff245f9daf6",
+            "id": "75972b03679fdeb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/FE/Engineering/webpack/Loader/Webpack Loader.md",
+                "file": "Coding/FE/Engineering/webpack/Webpack 核心原理、要点与工程化优化全解.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Webpack Loader"
-            }
-          },
-          {
-            "id": "ed269bf49e143fcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/FE/Engineering/webpack/Loader/深入解析Webpack Loader原理：从本质到实战落地.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "深入解析Webpack Loader原理：从本质到实战落地"
-            }
-          },
-          {
-            "id": "57b6d1c29e67d7c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/FE/Engineering/webpack/Plugin/Basic Concepts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Basic Concepts"
+              "title": "Webpack 核心原理、要点与工程化优化全解"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -263,19 +235,23 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "ed269bf49e143fcd",
+  "active": "75972b03679fdeb1",
   "lastOpenFiles": [
+    "Coding/FE/Engineering/webpack/Webpack 中 loader 与 plugin 的核心区别.md",
+    "Coding/FE/Engineering/webpack/Webpack 核心原理、要点与工程化优化全解.md",
+    "style-loader vs miniCssExtractPlugin.md",
+    "诗歌/和子由渑池怀旧-苏轼.md",
     "Coding/FE/Engineering/webpack/Loader/Webpack Loader.md",
     "Coding/FE/Engineering/webpack/Loader/深入解析Webpack Loader原理：从本质到实战落地.md",
+    "Coding/FE/Engineering/webpack/Plugin/Basic Concepts.md",
+    "Coding/FE/Engineering/webpack/Loader/thread-loader 源码级深度原理拆解.md",
+    "Coding/FE/Engineering/webpack/Loader/Thread Loader 工作原理深度解析.md",
     "Coding/FE/Engineering/webpack/Loader/深入解析Webpack Loader原理：从本质到实战落地.md.baiduyun.uploading.cfg",
     "Coding/FE/Engineering/webpack/Loader/未命名.md.baiduyun.uploading.cfg",
     "Coding/FE/Engineering/webpack/未命名.md.baiduyun.uploading.cfg",
-    "Coding/FE/Engineering/webpack/Webpack 中 loader 与 plugin 的核心区别.md",
     "读书笔记/Reading List.md",
-    "Coding/FE/Engineering/webpack/Plugin/Basic Concepts.md",
     "Coding/FE/Engineering/webpack/Plugin/Basic Concepts.md.baiduyun.uploading.cfg",
     "Coding/FE/Engineering/webpack/Webpack 中 loader 与 plugin 的核心区别.md.baiduyun.uploading.cfg",
-    "诗歌/和子由渑池怀旧-苏轼.md",
     "诗歌/未命名.md",
     "Coding/FE/Engineering/webpack/Plugin/未命名.md.baiduyun.uploading.cfg",
     "读书笔记/时间从来不语，却回答了所有问题-季羡林.md",
@@ -298,9 +274,6 @@
     "copilot/copilot-custom-prompts/Generate table of contents.md",
     "copilot/copilot-custom-prompts/Make longer.md",
     "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
     "未命名.canvas"
   ]
 }
