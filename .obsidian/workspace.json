@@ -13,86 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "诗歌/和子由渑池怀旧-苏轼.md",
+                "file": "Tools/Audio_Video/main.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "和子由渑池怀旧-苏轼"
+              "title": "main"
             }
           },
           {
-            "id": "3eaeafe553ffa4fb",
+            "id": "090d242e89593461",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/FE/Engineering/webpack/SourceMap.md",
+                "file": "Tools/Audio_Video/音视频处理工具全指南.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SourceMap"
-            }
-          },
-          {
-            "id": "57b8328b606590d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/FE/Engineering/webpack/SourceMap.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SourceMap"
-            }
-          },
-          {
-            "id": "72ad54e6f10c55b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/FE/Engineering/webpack/Scope Hoisting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Scope Hoisting"
-            }
-          },
-          {
-            "id": "3836bca3992af8b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/FE/Engineering/webpack/SourceMap.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SourceMap"
-            }
-          },
-          {
-            "id": "fab02dec893890e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/FE/Engineering/webpack/Loader/深入解析Webpack Loader原理：从本质到实战落地.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "深入解析Webpack Loader原理：从本质到实战落地"
+              "title": "音视频处理工具全指南"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -277,46 +221,46 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "433c9d5006229e98",
+  "active": "090d242e89593461",
   "lastOpenFiles": [
+    "Coding/FE/Framework/React/React Fiber 深度解析.md",
+    "Tools/Audio_Video/音视频处理工具全指南.md",
+    "Coding/FE/Framework/React",
+    "Coding/FE/Framework",
+    "未命名",
+    "Tools/Audio_Video/main.md",
+    "AI/GitHub 上的 Agent 教程：全学习路径整理.md",
+    "诗歌/和子由渑池怀旧-苏轼.md",
+    "诗歌/未命名.md",
+    "诗歌/未命名 1.md",
+    "诗歌/未命名 2.md",
+    "Tools/Audio_Video",
+    "Tools",
+    "Coding/FE/Engineering/webpack/SourceMap.md",
+    "Coding/FE/Engineering/webpack/Loader/深入解析Webpack Loader原理：从本质到实战落地.md",
+    "TODO/时间简史（全彩页高清晰）.pdf",
+    "README.md",
+    "TODO/欢乐的经济学.pdf",
+    "Excalidraw/Drawing 2026-04-07 22.29.51.excalidraw.md",
+    "Excalidraw/Drawing 2026-04-07 22.44.06.excalidraw.md",
+    "copilot/copilot-conversations/低首下心@20260411_145242.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "Coding/FE/Engineering/webpack/Scope Hoisting.md",
     "Coding/FE/Engineering/webpack/Scope Hoisting.md.baiduyun.uploading.cfg",
     "Coding/FE/Engineering/webpack/未命名.md.baiduyun.uploading.cfg",
-    "Coding/FE/Engineering/webpack/SourceMap.md",
-    "Coding/FE/Engineering/webpack/Scope Hoisting.md",
     "Coding/FE/Engineering/webpack/hmr-1.png",
     "Coding/FE/Engineering/webpack/SourceMap.md.baiduyun.uploading.cfg",
     "Coding/FE/Engineering/webpack/Gzip vs Brotli.md",
-    "Coding/FE/Engineering/webpack/Webpack 核心原理、要点与工程化优化全解.md",
-    "style-loader vs miniCssExtractPlugin.md.baiduyun.uploading.cfg",
-    "Coding/FE/Engineering/webpack/Webpack 核心原理、要点与工程化优化全解.md.baiduyun.uploading.cfg",
-    "Coding/FE/Engineering/webpack/Webpack 中 loader 与 plugin 的核心区别.md",
-    "Coding/FE/Engineering/webpack/Loader/深入解析Webpack Loader原理：从本质到实战落地.md",
-    "Coding/FE/Engineering/webpack/Loader/Thread Loader 工作原理深度解析.md",
-    "Coding/FE/Engineering/webpack/Loader/thread-loader 源码级深度原理拆解.md",
-    "style-loader vs miniCssExtractPlugin.md",
-    "诗歌/和子由渑池怀旧-苏轼.md",
-    "Coding/FE/Engineering/webpack/Loader/Webpack Loader.md",
-    "Coding/FE/Engineering/webpack/Plugin/Basic Concepts.md",
-    "Coding/FE/Engineering/webpack/Loader/深入解析Webpack Loader原理：从本质到实战落地.md.baiduyun.uploading.cfg",
-    "Coding/FE/Engineering/webpack/Loader/未命名.md.baiduyun.uploading.cfg",
-    "读书笔记/Reading List.md",
-    "Coding/FE/Engineering/webpack/Plugin/Basic Concepts.md.baiduyun.uploading.cfg",
-    "Coding/FE/Engineering/webpack/Webpack 中 loader 与 plugin 的核心区别.md.baiduyun.uploading.cfg",
-    "诗歌/未命名.md",
-    "Coding/FE/Engineering/webpack/Plugin/未命名.md.baiduyun.uploading.cfg",
-    "读书笔记/时间从来不语，却回答了所有问题-季羡林.md",
-    "诗歌/未命名 1.md",
-    "Coding/FE/Engineering/Vite",
-    "诗歌/望江南·多少恨 李煜.md",
-    "诗歌/天末怀李白-杜甫.md",
-    "诗歌/感谢-汪国真.md",
     "读书笔记/assets/印度种姓制度.jpg",
-    "copilot/copilot-conversations/低首下心@20260411_145242.md",
-    "copilot/copilot-custom-prompts/Clip Web Page.md",
-    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
     "未命名.canvas"
   ]
 }
