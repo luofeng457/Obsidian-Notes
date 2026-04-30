@@ -11,18 +11,30 @@
             "id": "d5e661a74d35869e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Tools/Audio_Video/main.md",
-                "mode": "source",
-                "source": false
+                "file": "新方向探索/教培/assets/北师大版小学数学知识点体系-2026-04-30-141657.png"
               },
-              "icon": "lucide-file",
-              "title": "main"
+              "icon": "lucide-image",
+              "title": "北师大版小学数学知识点体系-2026-04-30-141657"
             }
           },
           {
             "id": "090d242e89593461",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/FE/Framework/React/React Fiber 深度解析.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "React Fiber 深度解析"
+            }
+          },
+          {
+            "id": "061b61041ef01d9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +47,7 @@
               "title": "2026 前端可视化从入门到精通深度教程"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 316.5
   },
   "right": {
     "id": "087de9e83c629a26",
@@ -207,6 +218,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-importer:Open Importer": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -221,25 +233,34 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "090d242e89593461",
+  "active": "433c9d5006229e98",
   "lastOpenFiles": [
+    "新方向探索/教培/assets/Untitled diagram-2026-04-30-141741.png",
+    "新方向探索/教培/assets/北师大版初中数学知识体系-2026-04-30-141919.svg",
+    "新方向探索/教培/assets/北师大版小学数学知识点体系-2026-04-30-141657.png",
+    "新方向探索/教培/assets/北师大版初中数学知识点体系-2026-04-30-141741.png",
+    "新方向探索/教培/assets/北师大版小学数学知识点体系-2026-04-30-135322.svg",
+    "新方向探索/教培/assets/北师大版小学数学知识点思维导图mermaid.md.md",
+    "新方向探索/教培/assets/北师大版小学数学知识点思维导图.png",
+    "TODO/FE学习.md",
+    "新方向探索/教培/assets",
+    "新方向探索/教培",
+    "TODO/AI agent.md",
+    "新方向探索/自媒体/三大赛道市场数据对比分析.md",
+    "Tools/Audio_Video/main.md",
+    "Coding/FE/Framework/React/React Fiber 深度解析.md",
+    "Coding/FE/Visualization/2026 前端可视化从入门到精通深度教程.md",
+    "新方向探索/自媒体",
+    "未命名",
+    "新方向探索",
+    "Coding/FE/Visualization/2026 前端可视化从入门到精通深度教程.md.baiduyun.uploading.cfg",
     "Coding/FE/Visualization/未命名.md.baiduyun.uploading.cfg",
     "Tools/Ebooks/Readme.md.baiduyun.uploading.cfg",
     "Tools/Ebooks/Readme.md",
-    "Coding/FE/Visualization/2026 前端可视化从入门到精通深度教程.md",
     "Coding/FE/Visualization",
     "Tools/Ebooks/未命名.md.baiduyun.uploading.cfg",
     "Tools/Audio_Video/未命名.md",
-    "Tools/Audio_Video/未命名.md.baiduyun.uploading.cfg",
     "Tools/Audio_Video/音视频处理工具全指南.md",
-    "Tools/Ebooks",
-    "README.md.baiduyun.uploading.cfg",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md.baiduyun.uploading.cfg",
-    "Tools/Audio_Video/音视频处理工具全指南.md.baiduyun.uploading.cfg",
-    "Tools/Audio_Video/main.md.baiduyun.uploading.cfg",
-    "Coding/FE/Framework/React/React Fiber 深度解析.md.baiduyun.uploading.cfg",
-    "Coding/FE/Framework/React/React Fiber 深度解析.md",
-    "Tools/Audio_Video/main.md",
     "AI/GitHub 上的 Agent 教程：全学习路径整理.md",
     "诗歌/和子由渑池怀旧-苏轼.md",
     "诗歌/未命名.md",
@@ -255,10 +276,6 @@
     "copilot/copilot-custom-prompts/Summarize.md",
     "copilot/copilot-custom-prompts/Simplify.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
     "Coding/FE/Engineering/webpack/hmr-1.png",
     "读书笔记/assets/印度种姓制度.jpg",
     "未命名.canvas"
