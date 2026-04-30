@@ -11,12 +11,14 @@
             "id": "d5e661a74d35869e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "新方向探索/教培/assets/北师大版小学数学知识点体系-2026-04-30-141657.png"
+                "file": "新方向探索/教培/assets/北师大版小学数学知识点思维导图mermaid.md.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "北师大版小学数学知识点体系-2026-04-30-141657"
+              "icon": "lucide-file",
+              "title": "北师大版小学数学知识点思维导图mermaid.md"
             }
           },
           {
@@ -104,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 424.5
   },
   "right": {
     "id": "087de9e83c629a26",
@@ -233,14 +235,15 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "433c9d5006229e98",
+  "active": "d5e661a74d35869e",
   "lastOpenFiles": [
+    "新方向探索/教培/assets/北师大版初中数学知识点思维导图mermaid.md 1.md",
+    "新方向探索/教培/assets/北师大版小学数学知识点思维导图mermaid.md.md",
+    "新方向探索/教培/assets/北师大版小学数学知识点体系-2026-04-30-141657.png",
     "新方向探索/教培/assets/Untitled diagram-2026-04-30-141741.png",
     "新方向探索/教培/assets/北师大版初中数学知识体系-2026-04-30-141919.svg",
-    "新方向探索/教培/assets/北师大版小学数学知识点体系-2026-04-30-141657.png",
     "新方向探索/教培/assets/北师大版初中数学知识点体系-2026-04-30-141741.png",
     "新方向探索/教培/assets/北师大版小学数学知识点体系-2026-04-30-135322.svg",
-    "新方向探索/教培/assets/北师大版小学数学知识点思维导图mermaid.md.md",
     "新方向探索/教培/assets/北师大版小学数学知识点思维导图.png",
     "TODO/FE学习.md",
     "新方向探索/教培/assets",

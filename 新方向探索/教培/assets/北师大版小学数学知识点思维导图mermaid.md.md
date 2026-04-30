@@ -1,3 +1,7 @@
+%%
+复制下方代码，粘贴至支持 Mermaid 的编辑器（Typora / Notion / Obsidian / GitHub / [Mermaid Live Editor](https://mermaid.live/)）即可自动生成可缩放、可导出的思维导图。
+%%
+
 mindmap
   root((北师大版小学数学<br/>1-6年级知识点))
     一年级
